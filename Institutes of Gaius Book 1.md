@@ -123,5 +123,29 @@
 - ***mancipium*** **(bondage)**, *ius ciuile* to Roman citizens:
   - an imaginary sale of 5 witnesses and a 6th person as the scale-holder
   - people as *mancipi* (mancipable)
-  - if mancipated by parents (*potestas*) or *coemptionatores* (*manus*), placed in the positiont of slaves
+  - if mancipated by parents (*potestas*) or *coemptionatores* (*manus*), placed in the position of slaves
+
+## 124-141
+
+***Alieni iuris*** **can change their status by: **
+
+- ***potestas***:
+  - slaves by manumission
+  - Persons in a parent's *potestas* become *sui iuris* on his death.
+  - loss of Roman citizenship except being captured by the enemy
+  - male on being inaugurated *flame* of Jupiter, female being taken as a Vestal virgin
+  - by emancipation (mancipation - manumission - manciption - manumission - mancipation)
+  - female by passing into *manus*
+
+- ***manus***:
+  - by mancipation then manumission
+  - compell her husband to release her by notice of divorce
   
+- ***mancipium***:
+  - manumission by *uindicta*, census, or will
+  - obtain liberty by census even against the will of the holder, except the condition of a proviso for remancipation or a wrongful act
+
+---
+
+## 142
+
