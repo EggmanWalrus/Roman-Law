@@ -127,7 +127,7 @@
 
 ## 124-141
 
-***Alieni iuris*** **can change their status by: **
+**_Alieni iuris_ can change their status by: **
 
 - ***potestas***:
   - slaves by manumission
@@ -147,5 +147,25 @@
 
 ---
 
-## 142
+## 142-200
 
+**For persons who are neither in _potestas_ nor in _manus_ nor in _mancipium_, some are under _tutela_ or under _curatio_, others under neither.**
+
+***tutela***:
+
+- ***datiui***: tutor appointed by name, "Let Lucius Titius be tutor to my children or to my wife."
+- ***optiui***: tutor selected by option, "I give my wife Titia the option of a tutor"
+- ***legitimi***: agnates as tutors, if not appointed
+  - *tutela* of patrons
+  - *tutela* in mancipation with a proviso for remancipation to oneself, after manumission
+- ***fiduciariae***: for those that mancipated to us by a parent or *coemptionator*
+- appoint tutors to their children in *potestas*, male below the age of puberty (transfer not allowed), female of whatever age (transfer allowed) except *ius liberorum* (mother of several children) and Vestal virgins
+- appoint tutors to their wife in *manus*, options allowed, transfer allowed
+- agnates as those akin to each other through persons of the male sex, cognates as through persons of the female sex
+- the right of agnation destroyed by ***capitis deminutio*** (a change of previous status):
+  - ***maxima***: lose both citizenship and freedom at the same time
+  - ***minor***: lose citizenship but retain freedom
+  - ***minima***: a mere change of status
+- women allowed to apply for another tutor if:
+  - absence of the tutor, but not the absence of her patron
+  - a lunatic or a dumb man as tutor
