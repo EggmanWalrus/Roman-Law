@@ -107,7 +107,7 @@
   
 ## 86-96
 
-**Acuisition through others:**
+**Acquisition through others:**
 
 - ***potestas***: 
   - can have nothing of his own, all acquired for us
@@ -126,4 +126,57 @@
 
 ---
 
-## 97
+## 97-99
+
+**Acquisition _per universitatem_ (in mass):**
+
+- heir to some person or _bonorum possessio_ (granted possession of his estate)
+- buy an insolvent's estate
+- take a women into our _manus_
+
+---
+
+## 100-113
+
+**Forms of inheritance by will:**
+
+- ***comitia alata***: twice a year for the purpose of making wills
+- ***in procinctu***: on the point of sallying to battle
+- ***per aes et libram***: by mancipatin to a friend requested to distribute (5 witnesses and 1 scale holder)
+  - soldiers allowed with less strict formalities and appoint both Latins and peregrines as heirs
+  - unmarried persons forbidden, childless persons take half, except the will of a soldier
+  - allowed for women >=12 to make a will (if in *tutela*, *auctoritas* required)
+  - not allowed for men <14
+
+## 114-129
+
+**Validation of a will:**
+
+- ***heredis institutio***: an institution of an heir made in solemn form
+- ***auctoritas tutoris*** by women
+- ***exheredatio***: act of disinherison
+  - must disinherit a son by name rather than pass him over in silence, otherwise invalid testament
+  - must disinherit *liberi* born before and after, otherwise treated as *liberi* passed over
+  - if any *liberi* passed over, the persons passed over come in by accretion with the testamentary heirs
+    - an aliquot share if the testamentary heirs are *sui heredes*
+    - half the inheritance if the testamentary heirs are strangers
+      - male by *bonorum possessio contra tabulas* (possession against the will), stranger heirs as *sine re* (heir only in name)
+
+## 130-146
+
+**Subsequent invalidation by:**
+
+- ***postumi agnatio***: *liberi* born after the making of the will
+  - *postumae* (female) disinherited either by name or by the general clause
+  - *postumi* (male) disinherited only by name
+- **quasi-agnation**:
+  - those through succeeding to the position of a *suus heres* become *sui heredes*
+  - must be instituted or disinheirted so as to protect my will from quasi-agnation
+  - applies to adoption either as a *sui iuris* or one in *patria potestas* after making the will, will broken
+  - applies to wife under his *manus* (in the position of his daughter) after making the will, will broken
+  - applies to son manumitted from mancipation by returning into *patria potestas* after making the will, will broken
+- **subsequent validly made will**:
+  - the earlier will broken regardless of whether the second will is valid or not
+- ***capitis deminutio*** (change of status): inoperative will, will broken
+
+## 147
