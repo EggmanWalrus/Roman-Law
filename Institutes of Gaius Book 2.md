@@ -61,6 +61,29 @@
   
 **Obligations must be transferred by a novation.**
 
-## 40
+## 40-61
 
+***usucapio***: the acquisition of ownership of things through possession
 
+- bonitary title then Quiritary title by *usucapio* (a mere delivery of a *res mancipi*)
+- movables in 1 year, lands and buildings in 2 years (everything in an inheritance in 1 year)
+- if in good faith that the deliverer is the owner, can be acquired by usucapion regardlessly, except things stolen or taken by violence
+- ***usureceptio***: recovers what one had previously owned in a *fiducia* (trust)
+  - if contracted with a friend, allowed unconditionally
+  - if contraccted with a creditor, allowed unconditionally only if the debt has been paid
+- is not susceptible to:
+  - provincial lands
+  - *res mancipi* of a woman in the *tutela* of her agnates except delivery with *auctoritas* of her tutor
+  - free men
+  - *res sacrae*, *res religiosae*
+
+## 62-64
+
+**alienation**: transfer ownership of (property rights) to another person or group
+
+- forbidden for a husband to alienate dotal land without the wife's consent, even if he is the owner
+- allowed for agnate curator of a lunatic, or a *procurator* with full power of administration, or a creditor under agreement
+
+---
+
+## 65
