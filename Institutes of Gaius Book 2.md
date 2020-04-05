@@ -38,4 +38,29 @@
 
 ---
 
-## 18
+## 18-39
+
+***res corporales*** **acquired by:**
+
+- ***traditio*** **(natural/mere delivery)**：
+  - *nec mancipi* including stipendary and tributary lands
+- ***mancipatio*** **(mancipation)**:
+  - *res mancipi*
+- ***in iure cessio*** **(surrender in court)**:
+  - *res mancipi*
+
+***res incorporales*** **acquired by:**
+
+- ***mancipatio***:
+  - rustic praedial servitudes
+- ***in iure cessio***:
+  - urban praedial servitudes
+  - usufruct
+  - *hereditas* (inheritance)
+  - all that can be acquired by *mancipatio*
+  
+**Obligations must be transferred by a novation.**
+
+## 40
+
+
