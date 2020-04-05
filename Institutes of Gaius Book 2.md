@@ -71,7 +71,7 @@
 - ***usureceptio***: recovers what one had previously owned in a *fiducia* (trust)
   - if contracted with a friend, allowed unconditionally
   - if contraccted with a creditor, allowed unconditionally only if the debt has been paid
-- is not susceptible to:
+- not susceptible to:
   - provincial lands
   - *res mancipi* of a woman in the *tutela* of her agnates except delivery with *auctoritas* of her tutor
   - free men
@@ -84,6 +84,46 @@
 - forbidden for a husband to alienate dotal land without the wife's consent, even if he is the owner
 - allowed for agnate curator of a lunatic, or a *procurator* with full power of administration, or a creditor under agreement
 
+## 65-79
+
+**Other natrual methods (besides _traditio_) to acquire:**
+
+- ***occupatio***: being the first takers
+- ***alluuio***: alluvial accretion to land
+- ***accessio***: built or planted on my land, but must pay otherwise defeated by ***exceptio doli mali***
+- ***specificatio***: material substance
+
+## 80-85
+
+**Alienation and acquisition by persons in _tutela_:**
+
+- **woman**:
+  - can not alienate a *res mancipi* without *auctoritas* of the tutor
+  - can alienate a *res nec mancipi* (money, etc) without *auctoritas* of the tutor
+  - can acquire both *res mancipi* and *res nec mancipi* without *auctoritas* of the tutor
+- **ward**:
+  - can not alienate a *res mancipi* nor a *res nec mancipi* without *auctoritas* of the tutor
+  - can acquire both *res mancipi* and *res nec mancipi* without *auctoritas* of the tutor
+  
+## 86-96
+
+**Acuisition through others:**
+
+- ***potestas***: 
+  - can have nothing of his own, all acquired for us
+  - both ownership and possession
+- ***manus***
+- ***manicpium***
+- **slave**: 
+  - can have nothing of his own, all acquired for us
+  - both ownership and possession
+  - goes to the owner with the bonitary title
+  - Things acquired outside of the following two acccounts belong to the owner of the property.
+    - in connexion with our affairs
+    - from their own work
+- **others whom we possess _bona fide_**:
+  - Thing acquired in the above two accounts belong to the man himself if he is free, or to his owner if he is a slave.
+
 ---
 
-## 65
+## 97
