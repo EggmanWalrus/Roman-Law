@@ -276,6 +276,33 @@
 
 ---
 
-## 246
+## 246-267
 
+***fideicommissa*** **(trusts)**:
 
+- ***hereditas***:
+  - requires institution of an heir: "Be thou Lucius Titius my heir. I request and beg thee, Lucius Titius, as soon as thou art able to enter upon my inheritance, to render and make it over to Gaius Seius."
+  - transferor remains heir, transferee heir or legatee
+  - transferor retains one-quarter, if asked for more
+- ***res singulae***:
+  - can belong to anyone (heir, legatee, or third party)
+  - if a third party's thing, bound either to buy and make it over, or pay its value
+  - no more than that he himself takes from the will
+- ***libertas***:
+  - can request to manumit a slave, slave then becomes the freedman of him who manumits
+  - can belong to anyone (heir, legatee, or third party)
+  - if a third party's slave, bound to buy and manumit, except the refusal of the owner
+
+## 268-289
+
+**by trust vs. by legacy**:
+
+- **by trust**:
+  - property can be left away from the heir of one's heir
+  - can leave things away from the person to whom his property is going if dies intestate
+  - can be left even by unconfirmed codicil
+  - can be charged on a legatee
+  - can be applied to women and Latins
+  - can be applied to institude free and heir one's slave under 30 years of age
+  - can be expressed in Greek
+  - cannot appoint a tutor
