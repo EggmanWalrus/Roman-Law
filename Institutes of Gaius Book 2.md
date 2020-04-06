@@ -86,7 +86,7 @@
 
 ## 65-79
 
-**Other natrual methods (besides _traditio_) to acquire:**
+**other natrual methods (besides _traditio_) to acquire:**
 
 - ***occupatio***: being the first takers
 - ***alluuio***: alluvial accretion to land
@@ -95,7 +95,7 @@
 
 ## 80-85
 
-**Alienation and acquisition by persons in _tutela_:**
+**alienation and acquisition by persons in _tutela_:**
 
 - **woman**:
   - can not alienate a *res mancipi* without *auctoritas* of the tutor
@@ -107,7 +107,7 @@
   
 ## 86-96
 
-**Acquisition through others:**
+**acquisition through others:**
 
 - ***potestas***: 
   - can have nothing of his own, all acquired for us
@@ -128,9 +128,9 @@
 
 ## 97-99
 
-**Acquisition _per universitatem_ (in mass):**
+**acquisition _per universitatem_ (in mass):**
 
-- heir to some person or _bonorum possessio_ (granted possession of his estate)
+- heir to some person or ***bonorum possessio*** (granted possession of his estate)
 - buy an insolvent's estate
 - take a women into our _manus_
 
@@ -138,7 +138,7 @@
 
 ## 100-113
 
-**Forms of inheritance by will:**
+**forms of inheritance by will:**
 
 - ***comitia alata***: twice a year for the purpose of making wills
 - ***in procinctu***: on the point of sallying to battle
@@ -150,7 +150,7 @@
 
 ## 114-129
 
-**Validation of a will:**
+**validation of a will:**
 
 - ***heredis institutio***: an institution of an heir made in solemn form
 - ***auctoritas tutoris*** by women
@@ -160,11 +160,11 @@
   - if any *liberi* passed over, the persons passed over come in by accretion with the testamentary heirs
     - an aliquot share if the testamentary heirs are *sui heredes*
     - half the inheritance if the testamentary heirs are strangers
-      - male by *bonorum possessio contra tabulas* (possession against the will), stranger heirs as *sine re* (heir only in name)
+      - male by ***bonorum possessio contra tabulas*** (possession against the will), stranger heirs as ***sine re*** (heir only in name)
 
 ## 130-146
 
-**Subsequent invalidation by:**
+**subsequent invalidation:**
 
 - ***postumi agnatio***: *liberi* born after the making of the will
   - *postumae* (female) disinherited either by name or by the general clause
@@ -179,4 +179,52 @@
   - the earlier will broken regardless of whether the second will is valid or not
 - ***capitis deminutio*** (change of status): inoperative will, will broken
 
-## 147
+## 147-151
+
+***bonorum possessio contra tabulas***
+
+- if omitted in his father's will, or not expressly exheredated
+
+***bonorum possessio secundum tabulas***:
+
+- for wills improperly executed or subsequently rendered inoperative or broken, only if the deceased testator was both a Roman citizen and *sui iuris* at his death
+- ***cum re*** **(effectual)**: if they are able to keep the inheritance
+- ***sine re*** **(ineffectual)**: if the inheritance can be taken away from them
+
+***bonorum possessio ab intestato*** **(by right of intestacy):**
+
+- claimed by seven degress of persons in order: children, *legitimi heredes*, *proximi cognati* as the first three
+
+## 152-173
+
+**_Heredes_ are either _necessarii_, _sui et necessarii_ or _extranei_.**
+
+- ***necessarius***: slave instituted heir with freedom annexed (*heres* and *liber* at the same time)
+- ***sui et necessarii***: son or daughter, grandson or granddaughter, and the rest, if they are *suus heres* and in the testator's *potestas*.
+- ***extranei***: all other heirs not subject to the testator's *potestas*
+  - allowed power of deliberating whether to enter on the inheritance, and given a ***cretio*** (limited period for deliberation)
+    - ***vulgaris cretio*** **(ordinary _cretio_)**: the days during which the man was aware
+    - ***cretio ceterorum dierum*** **(fixed _cretio_)**
+  - once entered, no power of abandoning the inheritance except if under the age of 25, or inheritance with an unknown large debt at the time of entry
+  
+## 174-184
+
+***substitutio*** (substitutes of heirs)
+
+- ***vulgaris substitutio***: parallel degrees of substitution
+  - "Be thou Lucius Titus my heir and do thou make _cretio_ within the next 100 days during which thou knowest and canst. If thou dost not so make _cretio_, be thou disinherited. In that case be thou Meuius my heir and do thou make _cretio_ within the next 100 days."
+- ***pupillaris substitutio***: if such children die _impuberes_ (below puberty), appoint someone else
+  - "Be thou my son Titius my heir. If my son shall not be my heir or shall be my heir and die before becoming his own tutor, be thou Seius heir."
+  - doesn't apply to *extraneus heres*, only by means of trust to lay him under an obligation to make over his inheritance
+
+## 185-190
+
+**slaves**:
+
+- can be appointed heirs, but must be declared free as well as heir simultaneously and become _heres necessarius_
+- if manumitted by the testator, become _extranei_
+- if alienated, new owner becomes heir
+
+---
+
+## 191
