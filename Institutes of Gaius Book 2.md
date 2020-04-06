@@ -128,7 +128,7 @@
 
 ## 97-99
 
-**acquisition _per universitatem_ (in mass):**
+**acquisition _per universitatem_ (in mass)**:
 
 - heir to some person or ***bonorum possessio*** (granted possession of his estate)
 - buy an insolvent's estate
@@ -209,7 +209,7 @@
   
 ## 174-184
 
-***substitutio*** (substitutes of heirs)
+***substitutio***:
 
 - ***vulgaris substitutio***: parallel degrees of substitution
   - "Be thou Lucius Titus my heir and do thou make _cretio_ within the next 100 days during which thou knowest and canst. If thou dost not so make _cretio_, be thou disinherited. In that case be thou Meuius my heir and do thou make _cretio_ within the next 100 days."
@@ -227,4 +227,55 @@
 
 ---
 
-## 191
+## 191-223
+
+**forms of legacies**:
+
+- **by vindication**:
+  - "To Titius I give and legate the slave Stichus."
+  - becomes the legatee's by Quiritary title, once the inheritance entered upon
+  - only for things belong to the testator by Quiritary title
+- **by damnation**:
+  - "Be my heir specially bound to convey my slave Stichus."
+  - heir bound to buy the thing and convey it or pay the value, even it's another man's
+  - must sue for it by action *in personam*, must plead that the heir is under an obligation to convey
+  - if *mancipi*, either mancipate or surrent it *in iure*, and deliver posession
+  - if *nec mancipi* and corporeal, deliver
+- **by permission**:
+  - "Be my heir specially bound to permit Lucius Titius to take andhave for himself the slave Stichus."
+  - can validly legate not only his own thing, but also of his heir
+- **by preception**:
+  - "Let Lucius Titius take in advance the slave Stichus."
+  - only to one who has been appointed in some part heir
+  - only for things belong to the testator
+  
+## 224-228
+
+***L. Furia***: no one except certain persons allowed to take more than 1,000 asses by legacy or gift *mortis causa*
+
+- can exhaust the whole estate by giving legacy equally to each person, and leave the heir with none
+
+***L. Voconia***: no one might by legacy or gift *mortis causa* take more than the heirs
+
+***L. Falcidia***: can legate no more than three quarters of his estate
+
+***L. Fufia Caninia***: moderate extravagance in the giving of liberty (by will to slaves)
+
+## 229-245
+
+**void legacies**:
+
+- ***ante heredis institutionem***:
+  - cannot be conferred before the institution of an heir
+- ***post mortem heredis***:
+  - cannot take effect after the death of the heir: "When my heir shall have died, I give and legate..."
+- ***poenae nomine***:
+  - cannot by ways of penalty: "If my heir gives his daughter in marriage to Titius, let him pay Seius 10,000 sesterces."
+- ***incertae personae***:
+  - cannot legate to an uncertain person: "To the first person who comes to my funeral let my heir pay 10,000 sesterces."
+
+---
+
+## 246
+
+
