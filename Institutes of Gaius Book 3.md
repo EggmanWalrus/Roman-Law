@@ -66,3 +66,83 @@
 ---
 
 ## 88
+
+**obligations**:
+
+- ***ex contractu*** **(from contract)**
+- ***ex delicto*** **(from delict)**
+
+## 89-181
+
+***ex contractu***:
+
+- **real contract**:
+  - *mutuum* (loan for consumption)
+  - *commodatum* (loan for use)
+  - *depositum* (deposit)
+  - *pignus* (pledge)
+- **verbal contract**:
+  - "Do you solemnly promise conveyance? I solemnly promise conveyance."
+  - **invalidity**:
+    - conveyance of something that cannot be conveyed: nature of the thing, condition, death, *capitis deminutio*
+    - conveyance to a person not subject to my power
+    - stipulation from one subject to my power: *mancipio*, *potestas*, *manus*
+    - dumb man, lunatic
+  - ***adstipulatio***: person who stipulate for the self-same thing
+    - action and payment lawfully made, then make over by the *actio mandati*
+    - may stipulate for less, but not for more than the principal stipulator
+    - only when stipulating for something to be conveyed after our death
+  - ***adpromissio***: persons who become bound to the promisor
+    - ***sponsores***: 
+      - "Do you solemnly promise conveyance of the same thing?"
+      - accessory to none but verbal obligations
+      - heir not bound
+      - debts divided, discharged after 2 years
+    - ***fidepromissores***: 
+      - "Do you promise the same thing on your honor?"
+      - accessory to none but verbal obligations
+      - heir not bound
+      - debts divided, discharged after 2 years
+    - ***fideiussores***: 
+      - "Do you guarantee the same thing on your honor?"
+      - accessory to any kind of obligation, on behalf of anyone
+      - heir bound
+      - the whole debt liable, bound for all time
+- **literal contract**:
+  - ***re in personam***:
+    - enter to your debit what you owe me on account of a purchase
+  - ***presona in personam***:
+    - enter to your debit what Titius oews me, provided that Titius assigned you to me as debtor in his place
+- **consensual contract**:
+  - no formality of words or writing required, but enough as consented
+  - ***emptio uenditio*** **(sale)**:
+    - at the point when a definite price. in money, is agreed
+  - ***locatio conductio*** **(hire)**:
+    - at the point when a definite reward is fixed
+  - ***societas*** **(partnership)**:
+    - either in respect of our entire fortunes or for some particular business such as the buying and selling of slaves
+    - dissolved by a renounce, death, *capitis deminutio*, or property sold up for indebtedness
+  - ***mandatum*** **(mandate)**:
+    - give a commission either in our own interest or in that of another
+    - no obligation contracted if a commission offends against morality
+    - dissolved by revocation or death
+- **acquisition of obligations through others**:
+  - *potestas*, *manus*, *mancipium*
+  - free men and slaves of other persons in possession of good faith, if through their own work or in connexion with our affirs
+- **extinction of obligations by performance**:
+  - ***acceptilatio***:
+    - "What I promised you, have you received? I have"
+    - applies only to verbal contract
+    - does not apply to women without her tutor's *auctoritas*
+  - ***solutio per aes et libram***:
+    - an imaginary sale to release someone from the obligation
+  - ***nouatio*** **(novatio)**:
+    - new obligation transforming the former one
+    - stipulation from a different person, or from the same person with something new such as a condition, a date, or a new or omitted *sponsor*
+  - ***litis contestatio*** **(joinder of issue)**:
+    - by *iudicium legitimum*, existing obligation ceased
+    - by *iudicium imperio continens*, existing obligation continues
+    
+---
+
+## 182
