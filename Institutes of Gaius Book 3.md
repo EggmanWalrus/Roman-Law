@@ -36,4 +36,33 @@
   - ***dediticiorum numero***:
     - goes to patron by the same statutue in the status they would have been, if not disgraced
     
-## 77
+## 77-81
+
+***bonorum emptio*** **(purchase of an insolvent's estate)**:
+
+- **of a living person**:
+  - intent to defraud, give up under the L. Iulia, or debtors
+  - held in possession an dadvertised for 30 successive day
+  - bonitary ownership, then Quiritary ownership by usucapion
+- **of a deceased person**:
+  - no heir, nor *bonorum possessores**, nor other lawful successor
+  - held in possession and advertised for 15 successive days
+  - bonitary ownership, then Quiritary ownership by usucapion
+  
+## 82-84
+
+**_abrogatio_ and _conuentio in manum_**:
+
+- all assets and debts due to him acquired by the adoptive father or *coemptionator*, except the rights destroyed by *capitis deminutio*
+- owed debts not acquired by the adoptive father or *coemptionator*, except hereditary debt
+
+## 85-87
+
+***hereditatis in iure cessio***:
+
+- before becoming heir, surrenderee becomes heir in full right
+- after qualifying as heir, heir he reamins (debts liable to heir, debts due destroyed)
+
+---
+
+## 88
