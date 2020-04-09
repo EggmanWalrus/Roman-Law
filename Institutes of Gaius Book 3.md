@@ -145,4 +145,46 @@
     
 ---
 
-## 182
+## 182-225
+
+***ex delicto***:
+
+- ***furtum*** **(theft)**:
+  - **definition**:
+    - removes another's property with the intent to appropriate it
+    - makes use of a thing left in his custody
+    - hanldes anything of another's property against his will, if clearly aware
+    - applies to his own property such as: steal my own thing from its *bona fide* possessor
+    - action lies at the suit of one who has an interest in the safety of the thing, though not its owner
+  - **forms of _furtum_**:
+    - **manifest**: 
+      - theft detected whilst being committed
+      - scouraged, become slave if free man, death if slave   
+    - **non-manifest**：
+      - double penalty
+    - ***conceptum***: 
+      - stolen thing sought adn found on a man's premises in the presence of witnesses
+      - action *concepti*
+      - threefold penalty
+    - ***oblatum***:
+      - stolen thing passed off and found on your premises, with the intention of being found on you rather than on his own
+      - action *oblati*
+      - threefold penalty
+    - ***prohibiti furti*** **(preventing the search)**:
+      - fourfold penalty
+- ***ui bona rapta***:
+  - takes another's property by violence, belongs to theft as well
+  - fourfold within a year, then simple value
+- ***damnum iniuria datum***:
+  - wrongful damage, by whose malice or negligence the damage (death) is caused
+  - condumned to pay the highest value thereof in that year
+  - value of the thing damaged in itself, and the loss exceeding its value
+- ***iniuria*** **(outrage)**:
+  - **definition**:
+    - strikes a man, raises a clamour
+    - advertises his property knowing that he owes nothing
+    - writes defamatory matter against him...
+    - deemed to suffer outrage in his own person, and also in the person in his *potestas* and *manus* (except slave)
+    - deemed to suffer outrage through slave, if intended as insult to the owner
+  - **penalty**:
+    - Twelve Tables: for breaking or bruising a bone, 300 *asses* if free man, 150 if a slave, 25 all other outrages
