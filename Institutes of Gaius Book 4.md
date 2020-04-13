@@ -36,4 +36,46 @@
 - ***pignoris capio***:
   - in some cases on custom (military sphere), in others on statute
 
-## 30
+## 30-68
+
+***formulae***:
+
+- **_formulae_ with fiction**:
+  - **fiction**: things that have no real essence in their own body, but are so acknowledged and accepted in law for some especial purpose
+  - **fiction of a _condictio_ (mistaken payment)**: no *formula* framed
+  - **fiction of _bonorum possessio_**
+  - **fiction of usucapion**
+  - **fiction of citizenship**: peregrines sue or sued on a cause for which an action has been established by Roman statutes
+  - **fiction of the absence of _capitis deminutio_**
+- ***partes formularum***:
+  - ***demonstratio***: the part to make known the subject-matter of the action
+  - ***intenti***: the part in which the plaintiff expresses what he claims
+  - ***adiudicatio***: the part empowering the *iudex* to assign property to one among the litigants
+  - ***condemnatio***: the part empowering the *iudex* to condemn or absolve the defendant
+- **_in ius_ or _in factum_**:
+  - ***in ius***: *formulae* with *intentio* that something belongs to us, or ought to be conveyed to us, or to compound the defendant for the wrong as a thief
+  - ***in factum***: *formulae* without *intentio*
+- ***condemnatio***: framed in terms of valuation in money
+  - ***certae***: a definite sum of money
+  - ***incertae***: an indefinite sum of money
+    - ***taxatio***: a preliminary limitation on the amount
+    - **uncertain and unlimited**
+- **overclaim**: if overclaims in *intentio*, fails in his case, loses his right, nor restored to his original position
+  - **amount**
+  - **time**
+  - **place**
+  - ***causa*** **(nature of the claim)**
+- **cross-claims**:
+  - ***bonae fidei iudicia***:
+    - *indux* allowed complete discretion in assessment
+    - sale, hiring, unauthorized agency, mandate, deposit, *fiducia*, partnership, tutorship, dowry
+  - **_compensatio_ against _argentarius_**:
+    - actions used by bankers
+    - only things of the same kind and nature as those claimed
+    - only debts already due
+  - **_deductio_ against _bonorum emptor_**:
+    - opponent condemned only in the amount remaining after deduction
+    - can be things of different kinds
+    - debts in future taken into account
+
+## 69
