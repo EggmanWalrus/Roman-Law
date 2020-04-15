@@ -78,4 +78,92 @@
     - can be things of different kinds
     - debts in future taken into account
 
-## 69
+## 69-81
+
+**specific actions**:
+
+- **against _pater_ or _dominus_ on contract of son or slave**:
+  - ***exercitoria***: 
+    - for those put in charge of a ship, full liability
+  - ***institoria***: 
+    - for those put in charge of a shop or other business, full liability
+  - ***tributoria***:  
+    - for those carrying on business with capital belonging to his **peculium** (savings of a son or slave, under consent), full liability
+  - **_actio de peculio_ or _de in rem uerso_**: 
+    - for transaction applied to the uses of the father or master, full liability
+    - for transaction not applied, up to the limit of what the *peculium* allows
+- **noxal actions**:
+  - wrongdoing by sons or slaves, father or master allowed either to bear the damage awarded or to surrender the offender
+  - by statute: theft, wrongful damage
+  - by Edict: outrage and violent robbery
+  - follows the person of the offender
+  - No action or obligation arises between me and a person in my *potestas*.
+- **on contract of persons _in manu_ or _in mancipio_**:
+  - not defended up to the full liability by the person they subject to
+  - property that would have been theirs if they not subjected to that person, for sale
+
+## 82-87
+
+**representatives in litigation**: prohibited when *legis actiones* were in use, *intentio* framed in the name of his principal, *condemnatio* into his own name
+
+- ***cognitor***:
+  - substituted as party to an action by special words in the presence of the opposing party
+  - *cognitor* allowed to be absent when appointed, acceptance required
+- ***procurator***:
+  - substitutued as party without special words, by simple mandate, without the presence of the opposing party
+- **tutor**
+- **curator**
+
+## 88-102
+
+**security**:
+
+- ***in rem***:
+  - defendant bound to give security, plaintiff does not
+  - **by _formula petitoria_**:
+    - *stipulatio* employed known as *iudicatum solui*
+    - claimed by the plaintiff's *intentio* that the thing is his
+  - **by _sponsio_**:
+    - *stipulatio* employed known as *prop praede litis et uindiciarum*
+    - challenge the opponent by a *sponsio*: "If the slave the subject of this action is mine by Quiritary title, do you solemnly promise to pay me 25 sesterces?"
+    - prejudicial, not penal, not exact
+  - if through *cognitor*, can be required either of the *cognitor* or his principal
+  - if through *procurator*, required of his principal
+- ***in personam***:
+  - if due on plaintiff's side, same as *in rem*
+  - if due on defendant's side:
+    - on behalf of another, security always required
+      - *cognitor*: from his principal
+      - *procurator*: from *procurator* himself
+    - on his own behalf, security required in certain cases
+      - nature of the action: judgement-debt, payment by *sponsor*...
+      - character of the defendant: guilty of malversation, property seized or for sale...
+
+## 103-114
+
+**extinction of actions**:
+
+- **_iudicia legitima_ and _imperio continentia_**:
+  - statutable:
+    - takes place in Rome or within the first milestone, between Roman citizens, before a single *iudex*
+    - lapses if not carried to judgement within 1.5 years
+  - dependent on *imperium*:
+    - tried by *recuperatores*, or either of the parties as peregrine, or outside the first milestone of Rome
+    - by *iudicium imperio continens*:
+      - can sue again on the same cause, *exceptio rei iudicatae uel in iudicium deductae* required
+    - by *iudicium legitimum*:
+      - if *in personam*, under a *formula* with an *intentio* framed *in ius*, subsequent action impossible
+      - if *in rem*, under a *formula* framed *in factum*, subsequent action possible, *exceptio rei iudicatae uel in iudicium deductae* required
+- **_actiones perpetuae_ and _temporales_**:
+  - if founded on statutue or senatusconsult, no limitation of time
+  - if founded on his own jurisdiction, usually within a year
+    - exceptions: *bonorum possessores*, *actio furti manifesti*
+- **transmissible to or against heirs**:
+  - if against heirs, only penal actions based on wrongdoing
+  - if in favor of heirs, such actions lie and are granted, except *actio iniuriarum*
+- **satisfaction before judgement**:
+  - absolution
+
+---
+
+## 115
